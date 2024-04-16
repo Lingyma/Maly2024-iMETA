@@ -1,0 +1,5 @@
+species	gene_num
+Partridge ducks	20580606
+Peking ducks	19883552
+Muscovy ducks	18133496
+Mallards	16827508
