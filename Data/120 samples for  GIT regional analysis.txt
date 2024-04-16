@@ -1,0 +1,122 @@
+120 samples for  GIT regional analysis			
+Sample ID	location	Breeds	Intestines
+MD70dduC1	Zhejiang	Muscovy ducks	Duodenum
+MD70dduC2	Zhejiang	Muscovy ducks	Duodenum
+MD70dduC3	Zhejiang	Muscovy ducks	Duodenum
+MD70dduC4	Zhejiang	Muscovy ducks	Duodenum
+MD70dduC5	Zhejiang	Muscovy ducks	Duodenum
+MD70dduC6	Zhejiang	Muscovy ducks	Duodenum
+PD70dduC1	Zhejiang	Peking ducks	Duodenum
+PD70dduC2	Zhejiang	Peking ducks	Duodenum
+PD70dduC3	Zhejiang	Peking ducks	Duodenum
+PD70dduC4	Zhejiang	Peking ducks	Duodenum
+PD70dduC5	Zhejiang	Peking ducks	Duodenum
+PD70dduC6	Zhejiang	Peking ducks	Duodenum
+SDQDuC1	Zhejiang	Partridge ducks	Duodenum
+SDQDuC2	Zhejiang	Partridge ducks	Duodenum
+SDQDuC3	Zhejiang	Partridge ducks	Duodenum
+SDQDuC4	Zhejiang	Partridge ducks	Duodenum
+SDQDuC5	Zhejiang	Partridge ducks	Duodenum
+SDQDuC6	Zhejiang	Partridge ducks	Duodenum
+WHYDuC1	Zhejiang	Mallards	Duodenum
+WHYDuC2	Zhejiang	Mallards	Duodenum
+WHYDuC3	Zhejiang	Mallards	Duodenum
+WHYDuC4	Zhejiang	Mallards	Duodenum
+WHYDuC5	Zhejiang	Mallards	Duodenum
+WHYDuC6	Zhejiang	Mallards	Duodenum
+MD70dIlC1	Zhejiang	Muscovy ducks	Ileum
+MD70dIlC2	Zhejiang	Muscovy ducks	Ileum
+MD70dIlC3	Zhejiang	Muscovy ducks	Ileum
+MD70dIlC4	Zhejiang	Muscovy ducks	Ileum
+MD70dIlC5	Zhejiang	Muscovy ducks	Ileum
+MD70dIlC6	Zhejiang	Muscovy ducks	Ileum
+PD70dIlC1	Zhejiang	Peking ducks	Ileum
+PD70dIlC2	Zhejiang	Peking ducks	Ileum
+PD70dIlC3	Zhejiang	Peking ducks	Ileum
+PD70dIlC4	Zhejiang	Peking ducks	Ileum
+PD70dIlC5	Zhejiang	Peking ducks	Ileum
+PD70dIlC6	Zhejiang	Peking ducks	Ileum
+SDQILC1	Zhejiang	Partridge ducks	Ileum
+SDQILC2	Zhejiang	Partridge ducks	Ileum
+SDQILC3	Zhejiang	Partridge ducks	Ileum
+SDQILC4	Zhejiang	Partridge ducks	Ileum
+SDQILC5	Zhejiang	Partridge ducks	Ileum
+SDQILC6	Zhejiang	Partridge ducks	Ileum
+WHYILC1	Zhejiang	Mallards	Ileum
+WHYILC2	Zhejiang	Mallards	Ileum
+WHYILC3	Zhejiang	Mallards	Ileum
+WHYILC4	Zhejiang	Mallards	Ileum
+WHYILC5	Zhejiang	Mallards	Ileum
+WHYILC6	Zhejiang	Mallards	Ileum
+MD70dCeC1	Zhejiang	Muscovy ducks	Cecum
+MD70dCeC2	Zhejiang	Muscovy ducks	Cecum
+MD70dCeC3	Zhejiang	Muscovy ducks	Cecum
+MD70dCeC4	Zhejiang	Muscovy ducks	Cecum
+MD70dCeC5	Zhejiang	Muscovy ducks	Cecum
+MD70dCeC6	Zhejiang	Muscovy ducks	Cecum
+PD70dCeC1	Zhejiang	Peking ducks	Cecum
+PD70dCeC2	Zhejiang	Peking ducks	Cecum
+PD70dCeC3	Zhejiang	Peking ducks	Cecum
+PD70dCeC4	Zhejiang	Peking ducks	Cecum
+PD70dCeC5	Zhejiang	Peking ducks	Cecum
+PD70dCeC6	Zhejiang	Peking ducks	Cecum
+SDQCeC1L	Zhejiang	Partridge ducks	Cecum
+SDQCeC2L	Zhejiang	Partridge ducks	Cecum
+SDQCeC3L	Zhejiang	Partridge ducks	Cecum
+SDQCeC4L	Zhejiang	Partridge ducks	Cecum
+SDQCeC5L	Zhejiang	Partridge ducks	Cecum
+SDQCeC6L	Zhejiang	Partridge ducks	Cecum
+WHYCeC1L	Zhejiang	Mallards	Cecum
+WHYCeC2L	Zhejiang	Mallards	Cecum
+WHYCeC3L	Zhejiang	Mallards	Cecum
+WHYCeC4L	Zhejiang	Mallards	Cecum
+WHYCeC5L	Zhejiang	Mallards	Cecum
+WHYCeC6L	Zhejiang	Mallards	Cecum
+MD70djeC1	Zhejiang	Muscovy ducks	Jejunum
+MD70djeC2	Zhejiang	Muscovy ducks	Jejunum
+MD70djeC3	Zhejiang	Muscovy ducks	Jejunum
+MD70djeC4	Zhejiang	Muscovy ducks	Jejunum
+MD70djeC5	Zhejiang	Muscovy ducks	Jejunum
+MD70djeC6	Zhejiang	Muscovy ducks	Jejunum
+PD70djeC1	Zhejiang	Peking ducks	Jejunum
+PD70djeC2	Zhejiang	Peking ducks	Jejunum
+PD70djeC3	Zhejiang	Peking ducks	Jejunum
+PD70djeC4	Zhejiang	Peking ducks	Jejunum
+PD70djeC5	Zhejiang	Peking ducks	Jejunum
+PD70djeC6	Zhejiang	Peking ducks	Jejunum
+SDQJeC1	Zhejiang	Partridge ducks	Jejunum
+SDQJeC2	Zhejiang	Partridge ducks	Jejunum
+SDQJeC3	Zhejiang	Partridge ducks	Jejunum
+SDQJeC4	Zhejiang	Partridge ducks	Jejunum
+SDQJeC5	Zhejiang	Partridge ducks	Jejunum
+SDQJeC6	Zhejiang	Partridge ducks	Jejunum
+WHYJeC1	Zhejiang	Mallards	Jejunum
+WHYJeC2	Zhejiang	Mallards	Jejunum
+WHYJeC3	Zhejiang	Mallards	Jejunum
+WHYJeC4	Zhejiang	Mallards	Jejunum
+WHYJeC5	Zhejiang	Mallards	Jejunum
+WHYJeC6	Zhejiang	Mallards	Jejunum
+MD70dCoC1	Zhejiang	Muscovy ducks	Colorectum
+MD70dCoC2	Zhejiang	Muscovy ducks	Colorectum
+MD70dCoC3	Zhejiang	Muscovy ducks	Colorectum
+MD70dCoC4	Zhejiang	Muscovy ducks	Colorectum
+MD70dCoC5	Zhejiang	Muscovy ducks	Colorectum
+MD70dCoC6	Zhejiang	Muscovy ducks	Colorectum
+PD70dCoC1	Zhejiang	Peking ducks	Colorectum
+PD70dCoC2	Zhejiang	Peking ducks	Colorectum
+PD70dCoC3	Zhejiang	Peking ducks	Colorectum
+PD70dCoC4	Zhejiang	Peking ducks	Colorectum
+PD70dCoC5	Zhejiang	Peking ducks	Colorectum
+PD70dCoC6	Zhejiang	Peking ducks	Colorectum
+SDQCoC1	Zhejiang	Partridge ducks	Colorectum
+SDQCoC2	Zhejiang	Partridge ducks	Colorectum
+SDQCoC3	Zhejiang	Partridge ducks	Colorectum
+SDQCoC4	Zhejiang	Partridge ducks	Colorectum
+SDQCoC5	Zhejiang	Partridge ducks	Colorectum
+SDQCoC6	Zhejiang	Partridge ducks	Colorectum
+WHYCoC1	Zhejiang	Mallards	Colorectum
+WHYCoC2	Zhejiang	Mallards	Colorectum
+WHYCoC3	Zhejiang	Mallards	Colorectum
+WHYCoC4	Zhejiang	Mallards	Colorectum
+WHYCoC5	Zhejiang	Mallards	Colorectum
+WHYCoC6	Zhejiang	Mallards	Colorectum

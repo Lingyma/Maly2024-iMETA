@@ -1,0 +1,207 @@
+Samples for analysis the duck microbiome reared differently			
+Sample ID	location	Breeds	Rearing systerm
+ANCeC1	Anhui	Peking ducks	WOW
+ANCeC2	Anhui	Peking ducks	WOW
+ANCeC3	Anhui	Peking ducks	WOW
+ANCeC4	Anhui	Peking ducks	WOW
+ANCeC5	Anhui	Peking ducks	WOW
+ANCeC6	Anhui	Peking ducks	WOW
+ANCeC7	Anhui	Peking ducks	WOW
+CeC1	Shanghai	Muscovy ducks	WW
+CeC105	Zhejiang	Muscovy ducks	WW
+CeC108	Shanghai	Muscovy ducks	WW
+CeC112	Shanghai	Muscovy ducks	WW
+CeC113	Shanghai	Muscovy ducks	WW
+CeC123	Shanghai	Muscovy ducks	WW
+CeC124	Shanghai	Muscovy ducks	WW
+CeC139	Shanghai	Muscovy ducks	WW
+CeC149	Shanghai	Muscovy ducks	WW
+CeC161	Shanghai	Muscovy ducks	WW
+CeC164	Shanghai	Muscovy ducks	WW
+CeC166	Zhejiang	Muscovy ducks	WW
+CeC186	Shanghai	Muscovy ducks	WW
+CeC192	Zhejiang	Muscovy ducks	WW
+CeC198	Zhejiang	Muscovy ducks	WW
+CeC200	Shanghai	Muscovy ducks	WW
+CeC28	Zhejiang	Muscovy ducks	WW
+CeC35	Shanghai	Muscovy ducks	WW
+CeC38	Zhejiang	Muscovy ducks	WW
+CeC41	Shanghai	Muscovy ducks	WW
+CeC42	Shanghai	Muscovy ducks	WW
+CeC51	Shanghai	Muscovy ducks	WW
+CeC6	Zhejiang	Muscovy ducks	WW
+CeC61	Shanghai	Muscovy ducks	WW
+CeC66	Shanghai	Muscovy ducks	WW
+CeC67	Zhejiang	Muscovy ducks	WW
+CeC68	Zhejiang	Muscovy ducks	WW
+CeC69	Shanghai	Muscovy ducks	WW
+CeC70	Shanghai	Muscovy ducks	WW
+CeC89	Zhejiang	Muscovy ducks	WW
+FJCeC1	Fujian	Partridge ducks	WW
+FJCeC2	Fujian	Partridge ducks	WW
+FJCeC3	Fujian	Partridge ducks	WW
+FJCeC4	Fujian	Partridge ducks	WW
+FJCeC5	Fujian	Partridge ducks	WW
+FJCeC6	Fujian	Partridge ducks	WW
+GZCeC-10	Jiangxi	Partridge ducks	WW
+GZCeC-24	Jiangxi	Partridge ducks	WW
+GZCeC-25	Jiangxi	Partridge ducks	WW
+GZCeC-26	Jiangxi	Partridge ducks	WW
+GZCeC-27	Jiangxi	Partridge ducks	WW
+GZCeC-28	Jiangxi	Partridge ducks	WW
+GZCeC-29	Jiangxi	Partridge ducks	WW
+GZCeC-30	Jiangxi	Partridge ducks	WW
+GZCeC-6	Jiangxi	Partridge ducks	WW
+GZCeC-7	Jiangxi	Partridge ducks	WW
+GZCeC-8	Jiangxi	Partridge ducks	WW
+GZCeC-9	Jiangxi	Partridge ducks	WW
+HBCeC1	Hebei	Peking ducks	WOW
+HBCeC2	Hebei	Peking ducks	WOW
+HBCeC3	Hebei	Peking ducks	WOW
+HBCeC4	Hebei	Peking ducks	WOW
+HBCeC5	Hebei	Peking ducks	WOW
+HBCeC6	Hebei	Peking ducks	WOW
+HEBCeC-10	Heilongjiang	Peking ducks	WW
+HEBCeC-15	Heilongjiang	Peking ducks	WW
+HEBCeC-17	Heilongjiang	Peking ducks	WW
+HEBCeC-18	Heilongjiang	Peking ducks	WW
+HEBCeC-21	Heilongjiang	Peking ducks	WW
+HEBCeC-22	Heilongjiang	Peking ducks	WW
+HEBCeC-25	Heilongjiang	Peking ducks	WW
+HEBCeC-30	Heilongjiang	Peking ducks	WW
+HEBCeC-4	Heilongjiang	Peking ducks	WW
+HEBCeC-5	Heilongjiang	Peking ducks	WW
+HEBCeC-7	Heilongjiang	Peking ducks	WW
+HEBCeC-8	Heilongjiang	Peking ducks	WW
+HNCeC10	Henan	Partridge ducks	WOW
+HNCeC11	Henan	Partridge ducks	WOW
+HNCeC12	Henan	Partridge ducks	WOW
+HNCeC13	Henan	Partridge ducks	WOW
+HNCeC14	Henan	Partridge ducks	WOW
+HNCeC15	Henan	Partridge ducks	WOW
+HNCeC16	Henan	Partridge ducks	WOW
+HNCeC17	Henan	Partridge ducks	WOW
+HNCeC18	Henan	Partridge ducks	WOW
+HNCeC4	Henan	Partridge ducks	WOW
+HNCeC5	Henan	Partridge ducks	WOW
+HNCeC6	Henan	Partridge ducks	WOW
+HNCeC7	Henan	Partridge ducks	WOW
+HNCeC8	Henan	Partridge ducks	WOW
+JSCeC1	Jiangsu	Partridge ducks	WOW
+JSCeC2	Jiangsu	Partridge ducks	WOW
+JSCeC3	Jiangsu	Partridge ducks	WOW
+JSCeC4	Jiangsu	Partridge ducks	WOW
+JSCeC5	Jiangsu	Partridge ducks	WOW
+JSCeC6	Jiangsu	Partridge ducks	WOW
+MD70d_CeC1	Zhejiang	Muscovy ducks	WOW
+MD70d_CeC2	Zhejiang	Muscovy ducks	WOW
+MD70d_CeC3	Zhejiang	Muscovy ducks	WOW
+MD70d_CeC4	Zhejiang	Muscovy ducks	WOW
+MD70d_CeC5	Zhejiang	Muscovy ducks	WOW
+MD70d_CeC6	Zhejiang	Muscovy ducks	WOW
+MD70d_CeC7	Zhejiang	Muscovy ducks	WOW
+MD70d_CeC8	Zhejiang	Muscovy ducks	WOW
+MD70dCeC1	Zhejiang	Muscovy ducks	WOW
+MD70dCeC2	Zhejiang	Muscovy ducks	WOW
+MD70dCeC3	Zhejiang	Muscovy ducks	WOW
+MD70dCeC4	Zhejiang	Muscovy ducks	WOW
+MD70dCeC5	Zhejiang	Muscovy ducks	WOW
+MD70dCeC6	Zhejiang	Muscovy ducks	WOW
+PD70d_CeC1	Zhejiang	Peking ducks	WOW
+PD70d_CeC2	Zhejiang	Peking ducks	WOW
+PD70d_CeC3	Zhejiang	Peking ducks	WOW
+PD70d_CeC4	Zhejiang	Peking ducks	WOW
+PD70d_CeC5	Zhejiang	Peking ducks	WOW
+PD70d_CeC6	Zhejiang	Peking ducks	WOW
+PD70d_CeC7	Zhejiang	Peking ducks	WOW
+PD70d_CeC8	Zhejiang	Peking ducks	WOW
+PD70dCeC1	Zhejiang	Peking ducks	WOW
+PD70dCeC2	Zhejiang	Peking ducks	WOW
+PD70dCeC3	Zhejiang	Peking ducks	WOW
+PD70dCeC4	Zhejiang	Peking ducks	WOW
+PD70dCeC5	Zhejiang	Peking ducks	WOW
+PD70dCeC6	Zhejiang	Peking ducks	WOW
+SDCeC1	Shandong	Peking ducks	WOW
+SDCeC2	Shandong	Peking ducks	WOW
+SDCeC3	Shandong	Peking ducks	WOW
+SDCeC4	Shandong	Peking ducks	WOW
+SDCeC5	Shandong	Peking ducks	WOW
+SDCeC6	Shandong	Peking ducks	WOW
+SDQCeC10L	Zhejiang	Partridge ducks	WW
+SDQCeC11L	Zhejiang	Partridge ducks	WW
+SDQCeC1L	Zhejiang	Partridge ducks	WW
+SDQCeC1R	Zhejiang	Partridge ducks	WW
+SDQCeC2L	Zhejiang	Partridge ducks	WW
+SDQCeC3L	Zhejiang	Partridge ducks	WW
+SDQCeC4L	Zhejiang	Partridge ducks	WW
+SDQCeC4R	Zhejiang	Partridge ducks	WW
+SDQCeC5L	Zhejiang	Partridge ducks	WW
+SDQCeC7R	Zhejiang	Partridge ducks	WW
+SDQCeC8L	Zhejiang	Partridge ducks	WW
+SDQCeC8R	Zhejiang	Partridge ducks	WW
+SDQCeC9L	Zhejiang	Partridge ducks	WW
+SDQCeC9R	Zhejiang	Partridge ducks	WW
+SHCeC1	Shanghai	Muscovy ducks	WOW
+SHCeC12	Shanghai	Muscovy ducks	WOW
+SHCeC15	Shanghai	Muscovy ducks	WOW
+SHCeC16	Shanghai	Muscovy ducks	WOW
+SHCeC17	Shanghai	Muscovy ducks	WOW
+SHCeC18	Shanghai	Muscovy ducks	WOW
+SHCeC24	Shanghai	Muscovy ducks	WOW
+SHCeC26	Shanghai	Muscovy ducks	WOW
+SHCeC27	Shanghai	Muscovy ducks	WOW
+SHCeC28	Shanghai	Muscovy ducks	WOW
+SHCeC4	Shanghai	Muscovy ducks	WOW
+SHCeC7	Shanghai	Muscovy ducks	WOW
+SSCeC-1	Guizhou	Partridge ducks	WW
+SSCeC-10	Guizhou	Partridge ducks	WW
+SSCeC-2	Guizhou	Partridge ducks	WW
+SSCeC-3	Guizhou	Partridge ducks	WW
+SSCeC-4	Guizhou	Partridge ducks	WW
+SSCeC-5	Guizhou	Partridge ducks	WW
+SSCeC-6	Guizhou	Partridge ducks	WW
+SSCeC-7	Guizhou	Partridge ducks	WW
+SSCeC-8	Guizhou	Partridge ducks	WW
+SSCeC-9	Guizhou	Partridge ducks	WW
+SXCeC1	Zhejiang	Partridge ducks	WOW
+SXCeC2	Zhejiang	Partridge ducks	WOW
+SXCeC3	Zhejiang	Partridge ducks	WOW
+SXCeC4	Zhejiang	Partridge ducks	WOW
+SXCeC5	Zhejiang	Partridge ducks	WOW
+SXCeC6	Zhejiang	Partridge ducks	WOW
+WFHCeC11L	Zhejiang	Mallards	WW
+WFHCeC12L	Zhejiang	Mallards	WW
+WFHCeC13L	Zhejiang	Mallards	WW
+WFHCeC14L	Zhejiang	Mallards	WW
+WFHCeC16L	Zhejiang	Mallards	WW
+WFHCeC1L	Zhejiang	Mallards	WW
+WFHCeC21L	Zhejiang	Mallards	WW
+WFHCeC22L	Zhejiang	Mallards	WW
+WFHCeC23L	Zhejiang	Mallards	WW
+WFHCeC24L	Zhejiang	Mallards	WW
+WFHCeC25L	Zhejiang	Mallards	WW
+WFHCeC2L	Zhejiang	Mallards	WW
+WFHCeC3L	Zhejiang	Mallards	WW
+WFHCeC4L	Zhejiang	Mallards	WW
+WFHCeC6L	Zhejiang	Mallards	WW
+WHYCeC1L	Zhejiang	Mallards	WW
+WHYCeC1R	Zhejiang	Mallards	WW
+WHYCeC2L	Zhejiang	Mallards	WW
+WHYCeC2R	Zhejiang	Mallards	WW
+WHYCeC3L	Zhejiang	Mallards	WW
+WHYCeC3R	Zhejiang	Mallards	WW
+WHYCeC4L	Zhejiang	Mallards	WW
+WHYCeC4R	Zhejiang	Mallards	WW
+WHYCeC5L	Zhejiang	Mallards	WW
+WHYCeC5R	Zhejiang	Mallards	WW
+WHYCeC6L	Zhejiang	Mallards	WW
+WHYCeC6R	Zhejiang	Mallards	WW
+WHYCeC7L	Zhejiang	Mallards	WW
+WHYCeC7R	Zhejiang	Mallards	WW
+WHYCeC8	Zhejiang	Mallards	WW
+WNCeC1L	Zhejiang	Mallards	WOW
+WNCeC2L	Zhejiang	Mallards	WOW
+WNFCeC1L	Zhejiang	Mallards	WOW
+WNFCeC2L	Zhejiang	Mallards	WOW
+WNFCeC3L	Zhejiang	Mallards	WOW
+WNFCeC4L	Zhejiang	Mallards	WOW
