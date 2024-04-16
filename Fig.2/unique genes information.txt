@@ -1,0 +1,6 @@
+ID	all
+Eukaryota	52835158
+Viruses	19066061
+Archaea	35837707
+Bacteria	8533851653
+Unclassify	510413209
